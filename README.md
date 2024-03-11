@@ -12,18 +12,24 @@ Soy David Garzón de la Fuente , un recién titulado en Desarrollo de Aplicacion
 
 ### Tecnologías que domino
 #### Frontend
-- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> HTML5
-- <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS3
-- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> JavaScript
-- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap (framework)
+- <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+- <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/angularjs.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/ionic.png"/> 
 
 #### Backend
-- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> Java
-- <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> Spring Boot
+- <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> 
 
 #### Base de Datos
-- <img src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png"/> MySQL
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> MongoDB
+- <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> 
+- <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
 
 Para obtener más detalles sobre mis proyectos y contribuciones, visita mi [portfolio](#) completo.
