@@ -32,7 +32,7 @@ Soy David Garzón de la Fuente , un recién titulado en Desarrollo de Aplicacion
 - <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> 
 
 
-Para obtener más detalles sobre mis proyectos y contribuciones, visita mi [portfolio](https://davidgdlf.github.io/Porfolio/) completo.
+Para obtener más detalles sobre mis proyectos y contribuciones, visita mi [portfolio](https://davidgdlf.github.io/Portfolio/) completo.
 
 ### Contáctame
 Estoy siempre abierto a nuevas oportunidades y colaboraciones. Si deseas comunicarte conmigo, puedes encontrarme  enviarme un correo electrónico a garzond140@gmail.com
